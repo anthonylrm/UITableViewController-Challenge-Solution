@@ -83,6 +83,7 @@
 
         UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:Section1CellIdentifier forIndexPath:indexPath];
         cell.textLabel.text = @"I am in section 0";
+        cell.backgroundColor = [UIColor redColor];
         return cell;
 
     } else if (indexPath.section == 1) {
