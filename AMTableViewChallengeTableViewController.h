@@ -1,5 +1,5 @@
 //
-//  AMViewController.h
+//  AMTableViewChallengeTableViewController.h
 //  UITableViewController Challenge Solution
 //
 //  Created by Anthony Matteo on 10/22/13.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface AMViewController : UIViewController
+@interface AMTableViewChallengeTableViewController : UITableViewController
 
 @end
